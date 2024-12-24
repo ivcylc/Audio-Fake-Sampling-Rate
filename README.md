@@ -21,4 +21,4 @@ python tmp.py
 
 Input the waveform path
 
-![image](https://github.com/user-attachments/assets/2cee9e05-0a30-412d-8687-0cb6ca9efe0f)
+![image](https://github.com/user-attachments/assets/3437c02d-f259-483a-949e-3b29bbe9645b)
