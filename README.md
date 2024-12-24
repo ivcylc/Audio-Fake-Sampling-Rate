@@ -1,4 +1,4 @@
-# Audio-Fake-Sampling-Rate
+# Audio-Real-Sampling-Rate-Detection
 
 A Python script to estimate the **real sampling rate** of an audio file based on the **Roll-off frequency** and visualize its frequency spectrum. This tool is particularly useful for detecting fake or upsampled audio files.
 
