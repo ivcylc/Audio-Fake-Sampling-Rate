@@ -14,6 +14,7 @@ A Python script to estimate the **real sampling rate** of an audio file based on
 Ensure you have Python 3.7 or above installed and the following dependencies:
 ```bash
 pip install librosa numpy matplotlib
+```
 
 Usage:
 
