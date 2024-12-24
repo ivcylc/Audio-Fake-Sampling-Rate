@@ -5,8 +5,6 @@ A Python script to estimate the **real sampling rate** of an audio file based on
 ## Features
 - Estimates the real sampling rate of audio files using the 0.99 Roll-off frequency.
 - Visualizes the audio's frequency spectrum and highlights the roll-off frequency.
-- Handles long audio files by randomly sampling 10 short segments for analysis.
-- Multi-threaded support for batch processing (future enhancement).
 
 ## Usage
 
@@ -18,8 +16,12 @@ pip install librosa numpy matplotlib
 
 Usage:
 
+```bash
 python tmp.py
+```
 
 Input the waveform path
 
+
+Visualization:
 ![image](https://github.com/user-attachments/assets/3437c02d-f259-483a-949e-3b29bbe9645b)
